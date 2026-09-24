@@ -1,0 +1,16 @@
+# 配图风格候选
+
+生成方式为内置 image_gen，当前三张仅用于选择风格，尚未插入正文。
+
+## A
+
+Create one polished landscape 16:9 editorial illustration as a style proposal for a Chinese developer article about HugeGraph documentation using Hugo + OINK 1.1, optional Kapa. Depict Markdown source sheets transforming into a documentation browser with sidebar, search, bilingual CN/EN tabs, version tabs latest and 1.7. Show optional external AI as a small separate disconnected dotted-line module marked "Optional AI", not active or live. This is a conceptual illustration, not an actual screenshot. Only these short labels allowed: "Markdown", "Hugo", "OINK 1.1", "CN / EN", "latest", "1.7", "Optional AI". No invented logos, no robots, no people, no marketing claims, no dense text. Strong visual hierarchy, generous whitespace, readable restrained typography. Use case: illustration-story. Style: sophisticated editorial print illustration, warm ivory paper, flat cut-paper geometry, restrained HugeGraph-inspired plum purple and charcoal accents, subtle grain, crisp shapes, mature technical magazine art. Source sheets left, finished browser right, modular transformation center.
+
+## B
+
+Create one polished landscape 16:9 editorial illustration as a style proposal for a Chinese developer article about HugeGraph documentation using Hugo + OINK 1.1, optional Kapa. Depict Markdown source sheets transforming into a documentation browser with sidebar, search, bilingual CN/EN tabs, version tabs latest and 1.7. Show optional external AI as a small separate disconnected dotted-line module marked "Optional AI", not active or live. This is a conceptual illustration, not an actual screenshot. Only these short labels allowed: "Markdown", "Hugo", "OINK 1.1", "CN / EN", "latest", "1.7", "Optional AI". No invented logos, no robots, no people, no marketing claims, no dense text. Strong visual hierarchy, generous whitespace, readable restrained typography. Use case: stylized-concept. Style: elegant isometric 3D miniature, matte white and purple physical document cards and browser panels, soft studio shadows on light neutral background, precise beveled edges, understated technical product illustration. Arrange a spatial workflow of modular parts, not a toy city.
+
+## C
+
+Create one polished landscape 16:9 editorial illustration as a style proposal for a Chinese developer article about HugeGraph documentation using Hugo + OINK 1.1, optional Kapa. Depict Markdown source sheets transforming into a documentation browser with sidebar, search, bilingual CN/EN tabs, version tabs latest and 1.7. Show optional external AI as a small separate disconnected dotted-line module marked "Optional AI", not active or live. This is a conceptual illustration, not an actual screenshot. Only these short labels allowed: "Markdown", "Hugo", "OINK 1.1", "CN / EN", "latest", "1.7", "Optional AI". No invented logos, no robots, no people, no marketing claims, no dense text. Strong visual hierarchy, generous whitespace, readable restrained typography. Use case: illustration-story. Style: careful technical notebook illustration, hand-drawn ink outlines, warm white paper, lavender and muted amber marker highlights, small hand-drawn connectors, sophisticated explanatory sketch, clean and deliberate rather than childish. Workflow with tangible document sheets and browser window.
+
